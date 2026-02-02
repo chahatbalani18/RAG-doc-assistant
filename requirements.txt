@@ -1,0 +1,9 @@
+streamlit>=1.30.0
+openai>=1.0.0
+pandas
+numpy
+scikit-learn
+faiss-cpu
+pypdf
+tiktoken
+python-dotenv

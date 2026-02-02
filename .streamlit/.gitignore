@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Data + local artifacts
+data/raw/
+data/index/
+*.faiss
+*.parquet
+
+# Secrets
+.env
+.streamlit/secrets.toml
